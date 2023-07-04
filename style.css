@@ -1,0 +1,26 @@
+.input-group{
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.btn{
+    background-color: #DFD7BF !important;
+    color: #000;
+}
+
+.btn:hover{
+    opacity: .8;
+}
+
+.img-height img{
+    height: 120px;
+}
+
+#details{
+    opacity: 0;
+}
+
+#txtSearch::placeholder{
+    color: lightgray;
+}
+
